@@ -66,7 +66,7 @@ body.dark-theme{
   --text-color: #C7D1CC;
   --body-color: #1D2521;
   --container-color: #27302C;
-  --field-color: #214231;
+  --field-color: #e68302;
 }
 
 .change-theme{
@@ -228,7 +228,7 @@ img{
   justify-content: center;
   align-items: center;
   padding: .3rem;
-  background: rgba(6,156,84,.5);
+  background: rgba(235, 144, 9, 0.5);
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
